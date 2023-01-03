@@ -1,0 +1,14 @@
+{
+    "name": "codespace/php-challenges",
+    "autoload": {
+        "psr-4": {
+            "Codespace\\PhpChallenges\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Moises Gaspar"
+        }
+    ],
+    "require": {}
+}
